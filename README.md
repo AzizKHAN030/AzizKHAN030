@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AzizKHAN030
+- 👋 Hi, I’m Azizbek
 - 👀 I’m interested in Web-Programming,use JavaScript, ReactJS, PHP, MySQL, HTML/Pug.js, CSS/SCSS, Gulp, Git, CMS WordPress. Really interested in ReactJS and aimed to learn it deeply
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on new projects
