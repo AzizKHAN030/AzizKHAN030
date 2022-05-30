@@ -1,3 +1,3 @@
 <p align="center">
-<img align = "center" src="/github-metrics.svg" alt="Metrics" width="800"/>
+<img align = "center" src="/github-metrics.svg" alt="Metrics" width="700"/>
 </p>
