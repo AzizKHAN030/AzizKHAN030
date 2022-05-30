@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: AzizKHAN030
+          user: azizkhan030
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tashkent
@@ -47,6 +47,7 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
