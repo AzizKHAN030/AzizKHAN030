@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1496" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1679" class="">
     <defs>
         <style/>
     </defs>
@@ -1492,6 +1492,152 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 21 commits in
+                                        <span class="repo">AzizKHAN030/scandipwa</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">m244_scandipwa</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#303aa4e</div>
+                                        <div class="message">Merge pull request #4878 from MaritaKochua/4711-unnecessary-vertical-scroll-
+
+#4711- removed rule that added vertical scroll</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0834720</div>
+                                        <div class="message">Merge pull request #4816 from MaritaKochua/4800-info-not-same-on-address-as-Luma
+
+#4800 - added region, country and postal code in address.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#059876e</div>
+                                        <div class="message">Merge pull request #4836 from ihorklymchuk-selecto/patch-1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8b0054</div>
+                                        <div class="message">Merge pull request #4830 from IrinaZhadzinets/issue-4797
+
+#4797 - Display default sort on PLP</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b335e36</div>
+                                        <div class="message">Merge pull request #4769 from AzizKHAN030/4762_fileResetBtn
+
+Added reset button for file fields</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bba81cf</div>
+                                        <div class="message">Merge pull request #4844 from MaritaKochua/4785-wrong-order-of-items-in-cart
+
+#4785 - changed order of items in cart</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aaf591c</div>
+                                        <div class="message">#4711- removed rule that added vertical scroll</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71b7819</div>
+                                        <div class="message">changed reset btn and stoppropogation for it</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35414fa</div>
+                                        <div class="message">Merge branch 'master' into 4762_fileResetBtn</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c595425</div>
+                                        <div class="message">Merge pull request #4842 from MaritaKochua/4831-add-padding-to-discount
+
+#4831 added padding to discount code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d6e449</div>
+                                        <div class="message">#4785 - changed order of items in cart</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2ae80d</div>
+                                        <div class="message">#4831 added padding to discount code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d19eef9</div>
+                                        <div class="message">Fix for page builder style support
+
+Same problem was fixed here https://github.com/scandipwa/scandipwa/pull/4206, however index.php is uses when BUILD_MODE=magento.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#121a1fa</div>
+                                        <div class="message">#4797 - Remove unused comma</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ce4214</div>
+                                        <div class="message">#4797 - Display default sort on PLP</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#869e4bf</div>
+                                        <div class="message">#4800 - added region, country and postal code in address.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#921e85f</div>
+                                        <div class="message">refactored the resetField method</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f28c845</div>
+                                        <div class="message">added z-index higher for a btn because worked bad on mobile, made corrections</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55aec68</div>
+                                        <div class="message">Merge branch 'scandipwa:master' into 4762_fileResetBtn</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b32328</div>
+                                        <div class="message">added reset button for file fields</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">AzizKHAN030/scandipwa</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#303aa4e</div>
+                                        <div class="message">Merge pull request #4878 from MaritaKochua/4711-unnecessary-vertical-scroll-
+
+#4711- removed rule that added vertical scroll</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0834720</div>
+                                        <div class="message">Merge pull request #4816 from MaritaKochua/4800-info-not-same-on-address-as-Luma
+
+#4800 - added region, country and postal code in address.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aaf591c</div>
+                                        <div class="message">#4711- removed rule that added vertical scroll</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#869e4bf</div>
+                                        <div class="message">#4800 - added region, country and postal code in address.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">AzizKHAN030/sales-graphql</span>
                                     </div>
@@ -1542,108 +1688,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">4827_fileResetIssue</span>
-                                        in
-                                        <span class="repo">AzizKHAN030/scandipwa</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">AzizKHAN030/scandipwa</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#059876e</div>
-                                        <div class="message">Merge pull request #4836 from ihorklymchuk-selecto/patch-1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8b0054</div>
-                                        <div class="message">Merge pull request #4830 from IrinaZhadzinets/issue-4797
-
-#4797 - Display default sort on PLP</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b335e36</div>
-                                        <div class="message">Merge pull request #4769 from AzizKHAN030/4762_fileResetBtn
-
-Added reset button for file fields</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bba81cf</div>
-                                        <div class="message">Merge pull request #4844 from MaritaKochua/4785-wrong-order-of-items-in-cart
-
-#4785 - changed order of items in cart</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71b7819</div>
-                                        <div class="message">changed reset btn and stoppropogation for it</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35414fa</div>
-                                        <div class="message">Merge branch 'master' into 4762_fileResetBtn</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d6e449</div>
-                                        <div class="message">#4785 - changed order of items in cart</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d19eef9</div>
-                                        <div class="message">Fix for page builder style support
-
-Same problem was fixed here https://github.com/scandipwa/scandipwa/pull/4206, however index.php is uses when BUILD_MODE=magento.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#121a1fa</div>
-                                        <div class="message">#4797 - Remove unused comma</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ce4214</div>
-                                        <div class="message">#4797 - Display default sort on PLP</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#921e85f</div>
-                                        <div class="message">refactored the resetField method</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f28c845</div>
-                                        <div class="message">added z-index higher for a btn because worked bad on mobile, made corrections</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55aec68</div>
-                                        <div class="message">Merge branch 'scandipwa:master' into 4762_fileResetBtn</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b32328</div>
-                                        <div class="message">added reset button for file fields</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jun 2022, 16:21:29 (timezone Asia/Tashkent) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 2 Jun 2022, 17:51:35 (timezone Asia/Tashkent) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
