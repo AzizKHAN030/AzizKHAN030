@@ -1750,7 +1750,7 @@ Created customer_id field and pass to BE to get its email</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jun 2022, 17:44:55 (timezone Asia/Tashkent) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 15 Jun 2022, 18:40:09 (timezone Asia/Tashkent) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
