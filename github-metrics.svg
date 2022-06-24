@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1399" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1333" class="">
     <defs>
         <style/>
     </defs>
@@ -1465,6 +1465,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">4727_unlockUser</span></div>
                                     <div class="commit">
+                                        <div class="sha">#deb39d3</div>
+                                        <div class="message">refactored code</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AzizKHAN030/customer-graph-ql</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">4727_unlockUser</span></div>
+                                    <div class="commit">
                                         <div class="sha">#eafa76f</div>
                                         <div class="message">added depecndecies of the function to the cunstruct</div>
                                     </div>
@@ -1540,52 +1560,12 @@ Debug class was renamed to DebugFlag</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">AzizKHAN030/persisted-query</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3f1e8f0</div>
-                                        <div class="message">Merge pull request #28 from AzizKHAN030/m244_persisted-query
-
-Debug class was renamed to DebugFlag</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ca0684</div>
-                                        <div class="message">Merge pull request #27 from leonazava/4255
-
-[4255] - searchig for + resulted in an error - fixed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#437d687</div>
-                                        <div class="message">resolved an issue on production mode, DebugFlag class gets int</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a82bf27</div>
-                                        <div class="message">Debug class was renamed to DebugFlag</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd8693f</div>
-                                        <div class="message">#4255 - replaced the urldecode method with rawurldecode method which is identical other than it doesn't parse the + characters</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jun 2022, 15:26:57 (timezone Asia/Tashkent) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 24 Jun 2022, 16:18:42 (timezone Asia/Tashkent) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
