@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1609" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1426" class="">
     <defs>
         <style/>
     </defs>
@@ -1458,6 +1458,62 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">AzizKHAN030/customization</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ffa5044</div>
+                                        <div class="message">Merge pull request #30 from scandipwa/adminhtml-datepicker-fix
+
+Fixed adminhtml datepicker show method patch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a93737</div>
+                                        <div class="message">Fixed adminhtml datepicker show method patch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe8e06c</div>
+                                        <div class="message">Merge pull request #28 from AzizKHAN030/m244_advPricing-datePicker
+
+fixed datepicker position in admin for produc edit advanced pricing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4988737</div>
+                                        <div class="message">CR changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34e1cd4</div>
+                                        <div class="message">CR changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#196c7df</div>
+                                        <div class="message">removed testing file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e911993</div>
+                                        <div class="message">refactored code, adding script from xml in seperate file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc38f0e</div>
+                                        <div class="message">removed licence comments</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a385ae</div>
+                                        <div class="message">fixed datepicker position in admin for produc edit advanced pricing</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">scandipwacloud/readymage-slow-cosmetique-oaw-1618479522</span>
                                     </div>
@@ -1528,120 +1584,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 25 commits in
-                                        <span class="repo">scandipwacloud/readymage-slow-cosmetique-oaw-1618479522</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">FLSLOW-1458</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c1c8ebb</div>
-                                        <div class="message">Change construct on customization page class</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c51fed7</div>
-                                        <div class="message">Merge pull request #2621 from scandipwacloud/FLSLOW-1459
-
-FLSLOW-1459 | Flickering titles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb0745e</div>
-                                        <div class="message">Merge pull request #2604 from scandipwacloud/FLSLOW-1459-BE
-
-FLSLOW-1459 - Add meta title getter for document init</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#138c01c</div>
-                                        <div class="message">Merge pull request #2603 from scandipwacloud/FLSLOW-1460
-
-FLSLOW-1460 - Add validation for account pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a18c51</div>
-                                        <div class="message">Import expection class</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f6329b</div>
-                                        <div class="message">Fix formatting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57bea43</div>
-                                        <div class="message">Merge pull request #2617 from scandipwacloud/restore-password-fix
-
-Fixing an issue with French chars in email To header</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed6ab02</div>
-                                        <div class="message">Fixing an issue with French chars in email To header</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0fc72be</div>
-                                        <div class="message">Merge pull request #2613 from scandipwacloud/restore-password-fix
-
-Resolving a problem with reset password email link not working</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c93e0ef</div>
-                                        <div class="message">Resolving a problem with reset password email link not working</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53071c7</div>
-                                        <div class="message">SLOw-105 - EDI CATALOG FIX
-
-* Fixed line 46 and 48 for article controller</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#767b4a6</div>
-                                        <div class="message">Fix typo in setting document title</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e75d87d</div>
-                                        <div class="message">Add validation for my-account route</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7907ccc</div>
-                                        <div class="message">Adjust comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#30404af</div>
-                                        <div class="message">Remove redundant code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d512b7</div>
-                                        <div class="message">eslint fix#1 -- without package.json and index.html</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c196ca</div>
-                                        <div class="message">Add meta title getter for document init</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b431024</div>
-                                        <div class="message">replaced &lt;title&gt; with document.title</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5627db</div>
-                                        <div class="message">Titles don't flicker with undefined anymore</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e835278</div>
-                                        <div class="message">Add validation for account pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jul 2022, 21:37:06 (timezone Asia/Tashkent) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 1 Jul 2022, 22:26:32 (timezone Asia/Tashkent) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
