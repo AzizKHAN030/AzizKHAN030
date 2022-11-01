@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1563" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1246" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            475 Commits
+                            476 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    266k added, 7.28k removed
+                                    239k added, 32.4k removed
                                 </div>
                             </section>
                             <section>
@@ -1487,6 +1487,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">scandiweb-extensions/zonos-checkout</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#81ca1ad</div>
+                                        <div class="message">Configured the extension</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -1553,120 +1573,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 57 commits in
-                                        <span class="repo">scandiweb-extensions/adobe-gift-cards</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#766856b</div>
-                                        <div class="message">Support for customAmounts and multiple Price Amounts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99aedaf</div>
-                                        <div class="message">Support for giftCard product</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#240ccca</div>
-                                        <div class="message">C3-200: applied CR comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35e4a73</div>
-                                        <div class="message">C3-208: applied styles to remove button</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da95efa</div>
-                                        <div class="message">C3-208: Create plugin for Store Credit in Checkout
-+ Created plugin and component to render store credit section
-+ Added logic for using store credit
-+ Plugged in to Checkout Summary to apply/remove store credit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe1df0b</div>
-                                        <div class="message">C3-200</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fba040d</div>
-                                        <div class="message">C3-200: Changed component name to more meaningful</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#616fb57</div>
-                                        <div class="message">C3-200:
-+ added field and buttons for gift card code
-+ pluged in to CheckoutSummary to render applied cards
-+ assured updates of the checkout on gift card submit and remove</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70962dd</div>
-                                        <div class="message">C3-200: figured out Browser Data</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66e818c</div>
-                                        <div class="message">C3-200:
-+ Plugged in and created component for gift cards in cart
-+ Applied comments to previously made components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be876a0</div>
-                                        <div class="message">History new -&gt; old</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e46481f</div>
-                                        <div class="message">Fixed storecredit and getting data</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#59c1177</div>
-                                        <div class="message">C3-200: Create plugin to display store credit and gift card values in checkout summary
-+ Created component for apply gift card
-+ Plugged in to CouponCode component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0c32f4</div>
-                                        <div class="message">C3-194: implemented logic in Gift Card
-+ added history and pagination to store credit
-+ made updates to Gift Card styles to add paddings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a20bb0e</div>
-                                        <div class="message">C3-194 Implementing store credit logic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8fcdc46</div>
-                                        <div class="message">C3-194: Added logic to Gift Card component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec56b98</div>
-                                        <div class="message">Getting the data from BE and render in orderTotals</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6fa462</div>
-                                        <div class="message">Merge branch 'C3-196' into C3-197</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#712ddbb</div>
-                                        <div class="message">fixed orderItems showing 0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fcbc9ba</div>
-                                        <div class="message">...</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2022, 21:38:40 (timezone Asia/Tashkent) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 1 Nov 2022, 22:33:00 (timezone Asia/Tashkent) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
