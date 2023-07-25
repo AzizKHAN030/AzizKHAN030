@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1359" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1959" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.category,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.category{align-items:center;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    539k added, 45.4k removed
+                                    396k added, 40.8k removed
                                 </div>
                             </section>
                             <section>
@@ -1484,6 +1484,54 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">scandipwacloud/readymage-panemirates-tuk-1663230522</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">PAN-422-dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#285ebb4</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/dev' into PAN-422-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1b3a56</div>
+                                        <div class="message">Added comments</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">scandipwacloud/readymage-panemirates-tuk-1663230522</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">PAN-422-staging</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d887cf8</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/staging' into PAN-422-staging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1b3a56</div>
+                                        <div class="message">Added comments</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">scandipwacloud/readymage-panemirates-tuk-1663230522</span>
                                     </div>
@@ -1491,8 +1539,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">PAN-422</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6085954</div>
-                                        <div class="message">Payfort Tabby</div>
+                                        <div class="sha">#c1b3a56</div>
+                                        <div class="message">Added comments</div>
                                     </div>
                                 </div>
                             </section>
@@ -1504,43 +1552,108 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 1274 commits in
                                         <span class="repo">scandipwacloud/readymage-panemirates-tuk-1663230522</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">staging</span></div>
+                                    <div>on branch <span class="code">PAN-422-dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a253b25</div>
-                                        <div class="message">Merge pull request #5230 from scandipwacloud/PAN-1804-staging
+                                        <div class="sha">#06729e4</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/staging' into PAN-1638-staging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0fcc0e6</div>
+                                        <div class="message">PAN-1638 - solve checkout page auto scroll</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c6b54c</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/production' into PAN-1638</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a684fdc</div>
+                                        <div class="message">PAN-1450 Store availibility FE fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0dc0a5</div>
+                                        <div class="message">Merge pull request #4650 from scandipwacloud/PAN-1670-dev
 
-Fixed oops page appearing, and fixed some syntax mistakes in the files PAN-1804</div>
+PAN-1670 - solve login page switch buttons style</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#929011a</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/staging' into PAN-1804-staging</div>
+                                        <div class="sha">#5f97ba6</div>
+                                        <div class="message">PAN-1637: Unwanted dividers are displayed within the option dropdown on PDP on mobile</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8a9b976</div>
-                                        <div class="message">Fixed oops page appearing, and fixed some syntax mistakes in the files</div>
+                                        <div class="sha">#3283680</div>
+                                        <div class="message">Merge pull request #4649 from scandipwacloud/PAN-1670-staging
+
+PAN-1670 - solve login page switch buttons style</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#5230 Fixed oops page appearing, and fixed some syntax mistakes in the files PAN-1804</span>
+                                    <div class="commit">
+                                        <div class="sha">#f9bdbd8</div>
+                                        <div class="message">PAN-1670 - solve login page switch buttons style</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">scandipwacloud/readymage-panemirates-tuk-1663230522</span></div>
-                                    <div>8 files changed <span class="code">++8 --11</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d9f0881</div>
+                                        <div class="message">PAN-1637: Unwanted dividers are displayed within the option dropdown on PDP on mobile</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#835d16b</div>
+                                        <div class="message">PAN-1637: Unwanted dividers are displayed within the option dropdown on PDP on mobile</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e698f95</div>
+                                        <div class="message">Merge pull request #4644 from scandipwacloud/PAN-1650-dev
+
+PAN-1650: Thank you page || create an account block issues</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b794566</div>
+                                        <div class="message">Merge pull request #4645 from scandipwacloud/PAN-1650-staging
+
+PAN-1650: Thank you page || create an account block issues</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc71a2f</div>
+                                        <div class="message">Merge pull request #4647 from scandipwacloud/PAN-1638-dev
+
+PAN-1638 - solve checkout page auto scroll</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa6b5cd</div>
+                                        <div class="message">Merge pull request #4643 from scandipwacloud/PAN-1638-staging
+
+PAN-1638 - solve checkout page auto scroll</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00fac80</div>
+                                        <div class="message">Merge pull request #4646 from scandipwacloud/PAN-1649-staging
+
+PAN-1649 - sort areas name alphabetically</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e284e9</div>
+                                        <div class="message">PAN-1649 - sort areas name alphabetically</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#384ecf2</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/staging' into PAN-1650-staging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92352e5</div>
+                                        <div class="message">PAN-1450 update stores.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8db1701</div>
+                                        <div class="message">PAN-1450 Separate store hours</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb528d4</div>
+                                        <div class="message">Merge pull request #4627 from scandipwacloud/PAN-1418-payfort-issues-stage
+
+[Stage] PAN-1418 allow disabling slots for Apple Express</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1551,43 +1664,106 @@ Fixed oops page appearing, and fixed some syntax mistakes in the files PAN-1804<
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 1980 commits in
                                         <span class="repo">scandipwacloud/readymage-panemirates-tuk-1663230522</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">PAN-422-staging</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f0f8e84</div>
-                                        <div class="message">Merge pull request #5231 from scandipwacloud/PAN-1804-dev
+                                        <div class="sha">#6f12ac3</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/R-JUN-30' into PAN-1606</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24a39fa</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/R-JUN-30' into PAN-1641</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d72a90</div>
+                                        <div class="message">Merge pull request #4668 from scandipwacloud/PAN-1622
 
-Fixed oops page appearing, and fixed some syntax mistakes in the files PAN-1804</div>
+PAN-1622: Confirm the password reset journey is in English</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5e5f527</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/dev' into PAN-1804-dev</div>
+                                        <div class="sha">#6148e9b</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/R-JUN-30' into PAN-1622</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8a9b976</div>
-                                        <div class="message">Fixed oops page appearing, and fixed some syntax mistakes in the files</div>
+                                        <div class="sha">#956c86a</div>
+                                        <div class="message">PAN-1630, PAN-1631 - Moving classes to more appropriate places</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#5231 Fixed oops page appearing, and fixed some syntax mistakes in the files PAN-1804</span>
+                                    <div class="commit">
+                                        <div class="sha">#ec5a29a</div>
+                                        <div class="message">Merge pull request #4666 from scandipwacloud/PAN-1659-stage
+
+PAN-1659 added optimizations</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">scandipwacloud/readymage-panemirates-tuk-1663230522</span></div>
-                                    <div>8 files changed <span class="code">++8 --11</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3bdd158</div>
+                                        <div class="message">PAN-1659 CR fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e73ce2e</div>
+                                        <div class="message">PAN-1659 CR fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4fc9d1</div>
+                                        <div class="message">Merge pull request #4651 from scandipwacloud/PAN-1637-staging
+
+PAN-1637: Unwanted dividers are displayed within the option dropdown on PDP on mobile</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc75b5d</div>
+                                        <div class="message">PAN-1671 added label for click event</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#145b2a5</div>
+                                        <div class="message">PAN-1671 fixed click event to fire only once</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8649905</div>
+                                        <div class="message">PAN-1671 added label for click event</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87ad365</div>
+                                        <div class="message">Merge pull request #4665 from scandipwacloud/PAN-1611
+
+PAN-1611: fix loyalityPointsConfig destructuring</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ab1cff</div>
+                                        <div class="message">Merge pull request #4663 from scandipwacloud/PAN-1674
+
+PAN-1674 - Added fallback to the loyalty points configuration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#898599d</div>
+                                        <div class="message">PAN-1674 - Added fallback to the loyalty points configuration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c249db2</div>
+                                        <div class="message">Merge pull request #4662 from scandipwacloud/PAN-1601-prod
+
+PAN-1601 active product fix for productGallery</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9df0d0a</div>
+                                        <div class="message">PAN-1601 active product fix for productGallery</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13bd33a</div>
+                                        <div class="message">PAN-1630 - Version with category id in preview</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#145659f</div>
+                                        <div class="message">Merge pull request #4660 from scandipwacloud/PAN-1644-staging
+
+PAN-1644 - solve order status layout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b06d4a3</div>
+                                        <div class="message">PAN-1644 - solve order status layout</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1596,7 +1772,7 @@ Fixed oops page appearing, and fixed some syntax mistakes in the files PAN-1804<
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2023, 22:06:21 (timezone Asia/Tashkent) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Jul 2023, 23:06:51 (timezone Asia/Tashkent) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
