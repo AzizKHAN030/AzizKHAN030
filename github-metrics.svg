@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1959" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1642" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    545k added, 47.4k removed
+                                    562k added, 47k removed
                                 </div>
                             </section>
                             <section>
@@ -1475,6 +1475,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">scandipwacloud/readymage-panemirates-tuk-1663230522</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">giftcards</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ab14d39</div>
+                                        <div class="message">Exposing data from BE to show in order details</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 193 commits in
                                         <span class="repo">scandipwacloud/readymage-panemirates-tuk-1663230522</span>
                                     </div>
@@ -1628,108 +1648,12 @@ PAN-1952 Fixed the query</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 509 commits in
-                                        <span class="repo">scandipwacloud/readymage-panemirates-tuk-1663230522</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">PAN-1952-stage</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7f6c34e</div>
-                                        <div class="message">PAN-2037 fix zindex issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50bf1a2</div>
-                                        <div class="message">PAN-2050 fix style issues with my account popup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02efa3c</div>
-                                        <div class="message">PAN-2078 make the add to cart button symmetric with other buttons</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9062b8</div>
-                                        <div class="message">PAN-1494 fix qa for order summary issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#538f791</div>
-                                        <div class="message">PAN-2041 prevent scroll on blank tab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f09026d</div>
-                                        <div class="message">PAN-1933 fixed desktop margin issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07d4bb0</div>
-                                        <div class="message">PAN-2054 fix arrow possition on mobile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cbb6beb</div>
-                                        <div class="message">PAN-2054 fix arrow possition on mobile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52c7d3d</div>
-                                        <div class="message">PAN-2044 fix slider dots wraped issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b6345d</div>
-                                        <div class="message">PAN-1993 CR fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec04508</div>
-                                        <div class="message">PAN-1993 removed nested queries</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7014bec</div>
-                                        <div class="message">PAN-1993 removed unnecessary queries, refactored the formatting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4543d81</div>
-                                        <div class="message">PAN-1890 QA failed fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16f386b</div>
-                                        <div class="message">Merge branch 'production' of github.com:scandipwacloud/readymage-panemirates-tuk-1663230522 into PAN-1890-prod</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfdf8df</div>
-                                        <div class="message">PAN-1914 changed styles, approach in slides on mobile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76484f4</div>
-                                        <div class="message">PAN-1890 changed plugin of powerstep from Product to ProductCard</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6729a07</div>
-                                        <div class="message">PAN-1933 fixed issue with SEO block</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fffb47d</div>
-                                        <div class="message">PAN-1900 fixed search overlay issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8aef7f4</div>
-                                        <div class="message">PAN-1956 make slider auto slide on mobile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fe48d8</div>
-                                        <div class="message">PAN-1890 fixed powerstep popup when adding configurable to cart from plp</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2023, 19:06:29 (timezone Asia/Tashkent) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Sept 2023, 20:06:39 (timezone Asia/Tashkent) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
