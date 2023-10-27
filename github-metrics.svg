@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1346" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1646" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1194 Commits
+                            1402 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    391k added, 46.4k removed
+                                    440k added, 49.6k removed
                                 </div>
                             </section>
                             <section>
@@ -1464,6 +1464,102 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 789 commits in
+                                        <span class="repo">scandipwacloud/readymage-stenders-qcb-1656668854</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">STE-1075</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#40da7c4</div>
+                                        <div class="message">Loyalty module update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b61192e</div>
+                                        <div class="message">Merge branch 'production' into stenderdev-edh</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0bf5213</div>
+                                        <div class="message">Loyalty module replace deprecated functions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d6af45</div>
+                                        <div class="message">Merge branch 'production' into stenderdev-edh</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f11b07c</div>
+                                        <div class="message">SAP integration module update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#551755d</div>
+                                        <div class="message">Bugfix for Custom_SapConnector - explode not string</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee11cec</div>
+                                        <div class="message">Bugfix for Custom_SapConnector - explode not string</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5e3021</div>
+                                        <div class="message">Remove module for Order number prefixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48e1e5f</div>
+                                        <div class="message">Add  modules to etc/config.php</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3db150b</div>
+                                        <div class="message">Add Amasty Special Occasion Coupons module</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1da8a2</div>
+                                        <div class="message">Add Xtento_XtCore and Xtento_ProductExport modules</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8830892</div>
+                                        <div class="message">Add Spars_Smtp module</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efa5183</div>
+                                        <div class="message">Add installed modules to etc/config.php</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80616ea</div>
+                                        <div class="message">Add installed modules to etc/config.php</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd1eab8</div>
+                                        <div class="message">Module - Allow PDF upload</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5896ed0</div>
+                                        <div class="message">Module for Order number prefixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f030d54</div>
+                                        <div class="message">Module for loyalty system and SMS service integration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb8ca60</div>
+                                        <div class="message">Module for auto restore coupon code when order is cancelled</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27791eb</div>
+                                        <div class="message">Module for sales data export to reports.stenders.lv</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e702de</div>
+                                        <div class="message">SAP Integration module</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">scandipwacloud/readymage-stenders-qcb-1656668854</span>
                                     </div>
@@ -1541,38 +1637,12 @@ This reverts commit 1bb32f6fa131f103c95ca2bfe335807344a6e93e.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">scandipwacloud/readymage-stenders-qcb-1656668854</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">staging-idu</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3f04f49</div>
-                                        <div class="message">Merge pull request #5787 from scandipwacloud/STE-1059-stage
-
-STE-1059 flushing persisted query cache after rate changing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1bb32f6</div>
-                                        <div class="message">STE-1059 flushing persisted query cache after rate changing</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2023, 18:06:44 (timezone Asia/Tashkent) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2023, 19:06:28 (timezone Asia/Tashkent) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
